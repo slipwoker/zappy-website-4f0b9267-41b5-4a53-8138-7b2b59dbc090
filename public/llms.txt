@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פלטפורמת חדשות ייחודית המשלבת התראות פיקוד העורף בזמן אמת עם סינון חדשות אוטומטי. קבלו מידע חיוני ומסונן במקום אחד לכל המשפחה.
+
+### אודות
+https://example.com/about
+גלו כיצד אנחנו משלבים טכנולוגיית סינון מתקדמת עם מערכת התראות פיקוד העורף כדי לספק לכם חוויית חדשות בטוחה ומותאמת לכל הגילאים.
+
+### התראות ומתודולוגיה
+https://example.com/alerts
+הבינו את מתודולוגיית הסינון המתקדמת שלנו ואת אופן שילוב התראות פיקוד העורף בזמן אמת. טכנולוגיה שמציבה את הבטיחות שלכם במרכז.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על מערכת ההתראות או הסינון? צוות חדשות אור כאן כדי לעזור. צרו קשר עכשיו וקבלו תמיכה מקצועית ומהירה לכל פנייה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - חדשות אור
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - חדשות אור
+
+### Category
+https://example.com/category/:slug
+מוצרים - חדשות אור
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
